@@ -1,0 +1,12 @@
+C:\Users\Ludovic\Documents\Visual Studio 2015\Projects\PrototypeB\PrototypeBHost\bin\PrototypeBHost.dll.config
+C:\Users\Ludovic\Documents\Visual Studio 2015\Projects\PrototypeB\PrototypeBHost\bin\PrototypeBHost.dll
+C:\Users\Ludovic\Documents\Visual Studio 2015\Projects\PrototypeB\PrototypeBHost\bin\PrototypeBHost.pdb
+C:\Users\Ludovic\Documents\Visual Studio 2015\Projects\PrototypeB\PrototypeBHost\bin\EntityFramework.dll
+C:\Users\Ludovic\Documents\Visual Studio 2015\Projects\PrototypeB\PrototypeBHost\bin\EntityFramework.SqlServer.dll
+C:\Users\Ludovic\Documents\Visual Studio 2015\Projects\PrototypeB\PrototypeBHost\bin\Newtonsoft.Json.dll
+C:\Users\Ludovic\Documents\Visual Studio 2015\Projects\PrototypeB\PrototypeBHost\bin\EntityFramework.xml
+C:\Users\Ludovic\Documents\Visual Studio 2015\Projects\PrototypeB\PrototypeBHost\bin\EntityFramework.SqlServer.xml
+C:\Users\Ludovic\Documents\Visual Studio 2015\Projects\PrototypeB\PrototypeBHost\bin\Newtonsoft.Json.xml
+C:\Users\Ludovic\Documents\Visual Studio 2015\Projects\PrototypeB\PrototypeBHost\obj\Debug\PrototypeBHost.csprojResolveAssemblyReference.cache
+C:\Users\Ludovic\Documents\Visual Studio 2015\Projects\PrototypeB\PrototypeBHost\obj\Debug\PrototypeBHost.dll
+C:\Users\Ludovic\Documents\Visual Studio 2015\Projects\PrototypeB\PrototypeBHost\obj\Debug\PrototypeBHost.pdb

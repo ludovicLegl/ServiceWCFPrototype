@@ -1,0 +1,2 @@
+# ServiceWCFPrototype
+Simple WCF Service
